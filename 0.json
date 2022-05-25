@@ -23,7 +23,7 @@
     ],
     "properties": {
         "creators": [
-            { "address": "HAWjmxnFAZrxkLNDkD9vqAHAJ4tgdY8ifq9Q6fYEzNL", "share": 100 }
+            { "address": "HAWjmxnFAZrxkLNDkD9vqAHAJ4tgdY8ifq9Q6fYEzNL", "share": 100, "verify": true }
         ],
         "files": [{
             "uri": "https://raw.githubusercontent.com/tonyhoangtran92/nftdata/main/0.png",
