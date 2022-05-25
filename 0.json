@@ -4,14 +4,23 @@
     "external_url": "https://pgo.com",
     "description": "Collection of PGO Shoes NFT",
     "seller_fee_basis_points": 500,
-    "uri": "https://raw.githubusercontent.com/tonyhoangtran92/nftdata/main/0.png",
-    "creators": [
+    "image": "https://raw.githubusercontent.com/tonyhoangtran92/nftdata/main/0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/tonyhoangtran92/nftdata/main/0.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
         {
             "address": "HAWjmxnFAZrxkLNDkD9vqAHAJ4tgdY8ifq9Q6fYEzNL",
-            "verified": true,
             "share": 100
         }
-    ],
+      ]
+    },
+    
     "attributes": [
         { "trait_type": "Type", "value": "Runner" },
         { "trait_type": "Rarity", "value": "Common" },
