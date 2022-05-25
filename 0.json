@@ -24,7 +24,7 @@
     "attributes": [
         { "trait_type": "Type", "value": "Runner" },
         { "trait_type": "Rarity", "value": "Common" },
-        { "trait_type": "Level", "value": 1 },
+        { "trait_type": "Level", "value": 5 },
         { "trait_type": "Optimal Speed", "value": "8-20km/h" },
         { "trait_type": "Efficiency", "value": 27 },
         { "trait_type": "Luck", "value": 15 },
