@@ -1,0 +1,24 @@
+{
+    "name": "PGO LOGO",
+    "symbol": "PGO",
+    "external_url": "https://pgo.com",
+    "description": "Collection of PGO Shoes NFT _ PGO outlook",
+    "image": "https://raw.githubusercontent.com/tonyhoangtran92/nftdata/main/papa-logo.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/tonyhoangtran92/nftdata/main/papa-logo.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+            "address": "7C6c3618iAQDgowngrDmyvD5WKaFcoeKo5VoyRAQDWUu",
+            "share": 100
+        }
+      ]
+    },
+    
+    "collection": { "name": "Sneaker", "family": "PGO" }
+}
